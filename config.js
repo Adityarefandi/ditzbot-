@@ -1,19 +1,5 @@
 /** 
-
-Yg Mau Sv Nomerku?
-
-wa.me/6285875158363
-
-Minimal Kasih Cr kalo mau reupload😡
-Create By Dika Ardnt.
-Recode By Naze & ( Nama Lu )
-
-Kalau Sampai Ketemu Lagi Creator Bot
-Yg Reupload Tanpa Kasih Cr 
-Sc Akan Saya Encode
-
-Base : Hisoka
-Recode : Naze & ( Nama Lu )
+script bot ini free
 
 **/
 
@@ -31,12 +17,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
-global.sessionName = 'nazedev'  //jangan diganti bro nanti error
+global.owner = ['6282244877433']
+global.ownernomer = "6282244877433"
+global.premium = ['6282244877433']
+global.packname = 'ʚ𝗗𝗶𝘁‘𝘇_𝗯𝗼𝘁'
+global.author = '𝓐𝓭𝓲𝓽𝔂𝓪 𝓡𝓮𝓯𝓪𝓷𝓭𝓲ɞ'
+global.sessionName = 'session'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
@@ -62,13 +48,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.mygit = 'https://github.com/Adityarefandi'
+global.myyt = 'https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0
+global.myytv = 'https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0
+global.mygc = "https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0"
+global.botname = '𝙳𝚒𝚝‘𝚣_𝚋𝚘𝚝'
+global.akulaku = '-'
+global.ytname = 'Ditz chn ofc'
 
 
 let file = require.resolve(__filename)
